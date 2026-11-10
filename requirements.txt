@@ -1,0 +1,15 @@
+# Orchestration & Frameworks
+
+# LLM Providers & API clients
+
+# Environment & Infrastructure
+python-dotenv==1.0.1
+
+fastapi>=0.115.0
+uvicorn>=0.30.0
+pydantic>=2.8.0
+langgraph>=0.2.0
+langchain-openai>=0.1.0
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+promptfoo>=0.60.0
